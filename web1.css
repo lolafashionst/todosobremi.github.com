@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color:blanchedalmond;
+    fill-opacity: 0.5;
+    width: 1250px;
+    margin: 0px auto;
+}
+
+#menu{
+    width: 1200px;
+    margin: 0px auto;
+    display: block;
+    text-align: center;
+    height: 35px;
+    background: orange;
+}
+
+#menu ul li{
+    font-size: 24px;
+    display: inline-block;
+    margin: 0px 30px 0px 20px;
+    letter-spacing: 1px;
+    line-height: 35px;
+}
+
+#web{
+    width: 1200px;
+    margin: 0px auto;
+}
+
+#web .caja{
+    display: block;
+    width: 750px;
+    height: 800px;
+    margin: 3px auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    /*box-shadow: 3px 3px 3px black;*/
+}
